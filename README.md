@@ -9,24 +9,24 @@ this repository has 4 files (include directory)
 - `The World of Suikoden.pdf`
 - `The World of Suikoden 表紙.psd`
 - `The World of Suikoden 本文.indd`
-- `The World of Suikoden png version (directory)`
+- `The World of Suikoden png version` (directory)
 
 # Contents of Files
 
-#### `The World of Suikoden.pdf`
+### The World of Suikoden.pdf
 - the book, front cover + body
 - `pdf` file
 - **recommended file**
 
-#### `The World of Suikoden 表紙.psd`
+### The World of Suikoden 表紙.psd
 - front cover
 - `psd` file
 
-#### `The World of Suikoden 本文.indd`
+### The World of Suikoden 本文.indd
 - the body of this book
 - `indd` file
 
-#### `The World of Suikoden png version (directory)`
+### The World of Suikoden png version (directory)
 - each page image file in this directory
 - `png` format
 - files size is `7.47 MB`
