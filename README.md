@@ -1,5 +1,5 @@
 # What's this?
-`Suikoden`, namely, `幻想水滸伝` in Japanese RPG has spread all over the world. I wrote about activities of `Suikoden` in not only Japan but also NA, Asia and UK etc.
+`Suikoden`, namely, `幻想水滸伝` in Japanese is famous JRPG and has spread all over the world. I wrote about events of `Suikoden` in not only Japan but also NA, Asia and UK etc.
 
 This book is distributed at [`Comic Market 89`](http://www.comiket.co.jp/info-a/C89/C89info.html).
 
